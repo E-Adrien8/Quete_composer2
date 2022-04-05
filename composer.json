@@ -1,0 +1,15 @@
+{
+    "name": "aesca/quete_composer2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ESCARMANT Adrien",
+            "email": "92037454+E-Adrien8@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
